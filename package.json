@@ -1,5 +1,5 @@
 {
-  "homepage": "http://rajkumarUchiha.github.io/Raj_portfolio",
+  "homepage": "https://rajkumaruchiha.github.io/about",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -26,8 +26,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -49,5 +49,16 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "description": "<h2 align=\"center\">   Portfolio Website - v2.0<br/>   <a href=\"http://soumyajit.tech/\" target=\"_blank\">soumyajit.tech</a> </h2> <div align=\"center\">   <img alt=\"Demo\" src=\"./Images/readme-img1.png\" /> </div>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajkumarUchiha/Raj_portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajkumarUchiha/Raj_portfolio/issues"
   }
 }
